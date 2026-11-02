@@ -1,0 +1,12 @@
+{
+  "name": "roman-konverter-tdd",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "qunit"
+  },
+  "devDependencies": {
+    "qunit": "3.0.0"
+  }
+}
